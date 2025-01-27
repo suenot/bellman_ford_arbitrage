@@ -1,0 +1,8 @@
+gym-trading-env>=0.3.3
+pandas>=1.5.3
+numpy>=1.21.1
+gymnasium>=0.28.1
+flask>=2.2.3
+pyecharts>=2.0.2
+ccxt==3.0.59
+nest_asyncio
